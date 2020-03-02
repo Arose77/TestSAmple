@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("testing 01 package");
 		System.out.println("testing project");
 		System.out.println("Hello world");
+		System.out.println();
 	}
 
 }
